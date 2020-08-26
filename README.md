@@ -1,3 +1,3 @@
-# Pointcremental-V0.1
+# Pointcremental-V0.2
 An incremental about points.  (WIP)
-(LATEST UPDATE:  Made it so that doublers cost 10 after you get a tripler no matter what and nerfed tripler cost scaling,)
+(LATEST UPDATE:  Made Quadruplers)
